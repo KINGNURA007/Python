@@ -1,2 +1,0 @@
-what to you learn about the process of install running the python program?
-whenever we run the program it first interprets, interpreter is there which use to interpret the python program basically the difference b/w the compiler and interpreter is nothing but compiler just complies the code all at one time but interpreter checks the code line by line.
