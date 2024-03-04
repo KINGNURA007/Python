@@ -45,4 +45,7 @@ Python uses new lines to complete a command, as opposed to other programming lan
 Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose."""
 
 #Python Syntax
+"""what is Python Syntax?
+Python syntax is the set of rules and conventions that govern the structure of Python code. It defines how Python programs should be written to be valid and understandable by the Python interpreter."""
+
 print ('Hello World!')
