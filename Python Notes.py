@@ -30,6 +30,9 @@ Features of Python or Why is python popular?
     • Interpreted and platform-independent.
     • Very easy to debugging.
     • Provides very big library support.
+    
+what to you learn about the process of running the python program?
+whenever we run the program it first interprets, interpreter is there which use to interpret the python program basically the difference b/w the compiler and interpreter is nothing but compiler just complies the code all at one time but interpreter checks the code line by line.
 
 Good to know!
 The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.
