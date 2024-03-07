@@ -55,8 +55,12 @@ Python Syntax:
 
 Execute Python Syntax
         As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line:
+>>> print ('Hello, World!')
+Hello, World!
 
->>> print ('Hello World!')"""
+Or by creating a python file on the server, using the .py file extension, and running it in the Command Line:
+
+"""
 
 for i in range (5):
  print (i)
