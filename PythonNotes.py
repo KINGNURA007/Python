@@ -136,6 +136,15 @@ y = "John"
 print(type(x))
 print(type(y))
 
+What is Single or Double Quotes?
+        String variables can be declared either by using single or double quotes:
+Example
+x = "John"
+# is the same as
+y = 'John'
+print (x)
+print (y)
+
 What is Python Comments?
         Python has commenting capability for the purpose of in-code documentation.
 Comments can be used to explain Python code.
