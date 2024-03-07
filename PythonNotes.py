@@ -59,7 +59,7 @@ Execute Python Syntax
 Hello, World!
 
 Or by creating a python file on the server, using the .py file extension, and running it in the Command Line:
-
+arun@linux:~/path/to/code/location$ python3 PythonNotes.py
 """
 
 for i in range (5):
