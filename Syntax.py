@@ -68,6 +68,7 @@ Comments can be used to prevent execution when testing code.
 Comments Types:
         Singleline Comments
         Multiline Comments
+
 Singleline Comments
 Comments start with a #, and Python will render the rest of the line as a comment:
 Example
