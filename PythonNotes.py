@@ -99,7 +99,8 @@ What is Python Variables?
         Variables is a reserved memory location to store values.
 Example
 Variables in Python:
-
+x=5
+y=
 """
 
 for i in range (5):
