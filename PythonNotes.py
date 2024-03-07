@@ -128,6 +128,14 @@ print (x)
 print (y)
 print (z)
 
+Get the Type
+        You can get the data type of a variable with the type() function.
+Example
+x = 5
+y = "John"
+print(type(x))
+print(type(y))
+
 What is Python Comments?
         Python has commenting capability for the purpose of in-code documentation.
 Comments can be used to explain Python code.
