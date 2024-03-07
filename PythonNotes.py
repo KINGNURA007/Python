@@ -46,6 +46,6 @@ Python relies on indentation, using whitespace, to define scope; such as the sco
 
 #Python Syntax
 """what is Python Syntax?
-Python syntax is the set of rules and conventions that govern the structure of Python code. It defines how Python programs should be written to be valid and understandable by the Python interpreter."""
-
-print ('Hello World!')
+#Syntax is the arrangement of words and phrases to create well-formed sentences in a language.
+for i in range (5):
+ print (i)print ('Hello World!')"""
