@@ -1,10 +1,10 @@
 """
 Python Intro
 ------------
+
 What is Python?
         Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 Python is a general Purpose high-level interpreted language with easy syntax and dynamic semantics.
-
 It is used for:
     web development (server-side),
     software development,
@@ -35,10 +35,10 @@ Features of Python or Why is python popular?
     • Provides very big library support.
     
 what to you learn about the process of running the python program?
-whenever we run the program it first interprets, interpreter is there which use to interpret the python program basically the difference b/w the compiler and interpreter is nothing but compiler just complies the code all at one time but interpreter checks the code line by line.
+        whenever we run the program it first interprets, interpreter is there which use to interpret the python program basically the difference b/w the compiler and interpreter is nothing but compiler just complies the code all at one time but interpreter checks the code line by line.
 
 Good to know!
-The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.
+        The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.
 In this tutorial Python will be written in a text editor. It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.
 
 Python Syntax compared to other programming languages!
@@ -48,6 +48,7 @@ Python relies on indentation, using whitespace, to define scope; such as the sco
 
 Python Syntax
 -------------
+
 what is Python Syntax?
         Syntax is the arrangement of words and phrases to create well-formed sentences in a language.
 Python Syntax:
@@ -56,26 +57,20 @@ Python Syntax:
         Python Variables
         Python Comments
 
-Execute Python Syntax
----------------------
+what is Execute Python Syntax?
         Execute Python syntax can be executed by writing directly in the Command Line:
-
 Example
 >>> print ('Hello, World!')
 Hello, World!
-
 Or by creating a python file on the server, using the .py file extension, and running it in the Command Line:
-
 Example
 arun@linux:~/path/to/code/location$ python3 PythonNotes.py
 Hello, World!
 
-Python Indentation
-------------------
+what is Python Indentation?
         Indentation refers to the spaces at the beginning of a code line.
 Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important.
 Python uses indentation to indicate a block of code.
-
 Example
 if 5 > 2:
     print ("Five is greater than two")
