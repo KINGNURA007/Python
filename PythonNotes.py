@@ -119,7 +119,7 @@ x = "Sally" # x is now of type string
 print(x)
 
 What is Casting?
-If you want to specify the data type of a variable, this can be done with casting.
+        If you want to specify the data type of a variable, this can be done with casting.
 Example
 x = str(3)    # x will be '3'
 y = int(3)    # y will be 3
@@ -133,6 +133,7 @@ Comments can be used to prevent execution when testing code.
 Comments Types:
         Singleline Comments
         Multiline Comments
+
 Singleline Comments
 Comments start with a #, and Python will render the rest of the line as a comment:
 Example
