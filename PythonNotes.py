@@ -47,5 +47,10 @@ Python relies on indentation, using whitespace, to define scope; such as the sco
 #Python Syntax
 """what is Python Syntax?
         Syntax is the arrangement of words and phrases to create well-formed sentences in a language.
+Python Syntax:
+        Execute Python Syntax
+        Python Indentation
+        Python Variables
+        Python Comments
 for i in range (5):
  print (i)print ('Hello World!')"""
