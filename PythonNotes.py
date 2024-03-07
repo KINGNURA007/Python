@@ -1,5 +1,7 @@
-#Python Intro
-"""What is Python?
+"""
+Python Intro
+------------
+What is Python?
         Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 Python is a general Purpose high-level interpreted language with easy syntax and dynamic semantics.
 
@@ -42,10 +44,11 @@ In this tutorial Python will be written in a text editor. It is possible to writ
 Python Syntax compared to other programming languages!
 Python was designed for readability, and has some similarities to the English language with influence from mathematics.
 Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
-Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose."""
+Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
 
-#Python Syntax
-"""what is Python Syntax?
+Python Syntax
+-------------
+what is Python Syntax?
         Syntax is the arrangement of words and phrases to create well-formed sentences in a language.
 Python Syntax:
         Execute Python Syntax
@@ -54,12 +57,22 @@ Python Syntax:
         Python Comments
 
 Execute Python Syntax
+---------------------
         As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line:
 >>> print ('Hello, World!')
 Hello, World!
 
 Or by creating a python file on the server, using the .py file extension, and running it in the Command Line:
 arun@linux:~/path/to/code/location$ python3 PythonNotes.py
+Hello, World!
+
+Python Indentation
+------------------
+        Indentation refers to the spaces at the beginning of a code line.
+
+Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important.
+
+Python uses indentation to indicate a block of code.
 """
 
 for i in range (5):
