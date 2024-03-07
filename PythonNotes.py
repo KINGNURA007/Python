@@ -148,6 +148,9 @@ y = 'John'
 print (x)
 print (y)
 
+Python Comments
+---------------
+
 What is Python Comments?
         Python has commenting capability for the purpose of in-code documentation.
 Comments can be used to explain Python code.
