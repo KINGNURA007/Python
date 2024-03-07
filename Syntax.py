@@ -5,5 +5,5 @@ Python Syntax:
         Execute Python Syntax
         Python Indentation
         Python Variables
-        Python Comments
+        Python Comments"""
 
