@@ -1,13 +1,13 @@
 #Python Intro
 """What is Python?
-Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+        Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 Python is a general Purpose high-level interpreted language with easy syntax and dynamic semantics.
 
 It is used for:
-web development (server-side),
-software development,
-mathematics,
-system scripting.
+    web development (server-side),
+    software development,
+    mathematics,
+    system scripting.
 
 What can Python do?
 Python can be used on a server to create web applications.
@@ -46,6 +46,6 @@ Python relies on indentation, using whitespace, to define scope; such as the sco
 
 #Python Syntax
 """what is Python Syntax?
-#Syntax is the arrangement of words and phrases to create well-formed sentences in a language.
+        Syntax is the arrangement of words and phrases to create well-formed sentences in a language.
 for i in range (5):
  print (i)print ('Hello World!')"""
