@@ -118,7 +118,7 @@ x = 4       # x is of type integer
 x = "Sally" # x is now of type string
 print(x)
 
-Casting
+What is Casting?
 If you want to specify the data type of a variable, this can be done with casting.
 Example
 x = str(3)    # x will be '3'
