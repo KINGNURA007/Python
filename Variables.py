@@ -1,4 +1,13 @@
-a=10    # a is a Variable name
+"""
+What is Python Variables?
+        Variables is a reserved memory location to store values.
+Example
+Variables in Python:"""
+
+x = 5
+y = "Hello, World!"
+
+"""a=10    # a is a Variable name
         # 10 is a Variable
 
 b="Arun"    # b is a Variable name
@@ -12,9 +21,7 @@ print (b)
 
 # a-z or A-Z    is a String
 
-
-
-# Storage container = Variable
+# Storage container = Variable"""
 
 # Container name = Variable Name
 
