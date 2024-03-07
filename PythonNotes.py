@@ -95,6 +95,9 @@ if 5 > 2:
  print ("Five is greater than two")
     print ("Five is greater than two")
 
+Python Variables
+----------------
+
 What is Python Variables?
         Variables are containers for storing data values or Variables is a reserved memory location to store values.
 Creating Variables:
