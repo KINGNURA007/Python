@@ -52,5 +52,11 @@ Python Syntax:
         Python Indentation
         Python Variables
         Python Comments
+
+Execute Python Syntax
+        As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line:
+
+>>> print ('Hello World!')"""
+
 for i in range (5):
- print (i)print ('Hello World!')"""
+ print (i)
