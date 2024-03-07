@@ -8,3 +8,11 @@ z = float(3)              # z will be 3.0
 print (x)
 print (y)
 print (z)
+
+"""Get the Type
+        You can get the data type of a variable with the type() function.
+Example"""
+x = 5
+y = "John"
+print(type(x))
+print(type(y))
