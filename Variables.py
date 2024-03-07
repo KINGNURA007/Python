@@ -9,7 +9,7 @@ Variable Types:
         Underscore Character is a Variable
 Example
 Variables in Python:"""
-x = 5                 # x is a Variable name        5 is a Variable
-y = "Hello, World!"   # y is a Variable name        "Hello, World!" is a Variable
+x = 5                   # x is a Variable name        5 is a Variable
+y = "Variables Notes"   # y is a Variable name        "Variables Notes" is a Variable
 print (x)
 print (y)
