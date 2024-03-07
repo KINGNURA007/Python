@@ -58,7 +58,7 @@ Python Syntax:
 
 Execute Python Syntax
 ---------------------
-        As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line:
+        Execute Python syntax can be executed by writing directly in the Command Line:
 >>> print ('Hello, World!')
 Hello, World!
 
