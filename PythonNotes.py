@@ -1,10 +1,41 @@
 """
 Python Intro
+Python Syntax
+Python Comments
+Python Variables
+Python Data Types
+Python Numbers
+Python Casting
+Python Strings
+Python Booleans
+Python Operators
+Python Lists
+Python Tuples
+
+Python Intro
 ------------
+Hardware -> 1,0
+
+Translator --> Interpreter / Compiler
+
+Programming Language:
+Python, C, C++, java, Php, ruby, javascript
+
+Scripting Language: (Interpreter)
+Python, Php, Perl
+Shell
+Bash (Borne again shell)
+
+idle - Intergrated Development and Learning Environment
+
+ide - Intergrated Development Environment
+
+Office Lap -> CS50 ide
 
 What is Python?
         Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 Python is a general Purpose high-level interpreted language with easy syntax and dynamic semantics.
+
 It is used for:
     web development (server-side),
     software development,
@@ -48,9 +79,9 @@ Python relies on indentation, using whitespace, to define scope; such as the sco
 
 Python Syntax
 -------------
-
 what is Python Syntax?
         Syntax is the arrangement of words and phrases to create well-formed sentences in a language.
+
 Syntax Types:
         Execute Python Syntax
         Python Indentation
@@ -62,6 +93,7 @@ what is Execute Python Syntax?
 Example
 >>> print ('Hello, World!')
 Hello, World!
+
 Or by creating a python file on the server, using the .py file extension, and running it in the Command Line:
 Example
 arun@linux:~/path/to/code/location$ python3 PythonNotes.py
@@ -97,12 +129,12 @@ if 5 > 2:
 
 Python Variables
 ----------------
-
 What is Python Variables?
         Variables are containers for storing data values or Variables is a reserved memory location to store values.
 Creating Variables:
         Python has no command for declaring a variable.
 A variable is created the moment you first assign a value to it.
+
 Variable Types:
         n..,-2,-1,0,-1,2,..n    is a Integer
         a-z or A-Z              is a String
